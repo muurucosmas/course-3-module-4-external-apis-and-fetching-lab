@@ -34,6 +34,7 @@ function displayAlerts(state) {
 					list.append(li);
 				});
 
+        
 				// add features
 				alertsDisplay.append(list);
 			}
